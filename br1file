@@ -1,0 +1,6 @@
+function fact(n){
+int x,fact;
+for (x=n;x>=1;x--)
+fact = fact * n;
+
+
